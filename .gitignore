@@ -1,0 +1,6 @@
+# JetBrains IDEs
+.idea/
+
+# Snapcraft
+*.snap
+*_source.tar.bz2

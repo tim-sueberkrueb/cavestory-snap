@@ -1,5 +1,5 @@
 name: cavestory
-version: '2.6.2-snap0'
+version: '2.6.2-snap1'
 summary: Doukutsu Monogatari - Jump-and-run platformer
 description: |
   NXEngine Evo is a complete open-source clone/rewrite of the masterpiece
@@ -59,3 +59,13 @@ parts:
     after:
       - cavestory
       - desktop-glib-only
+  translations:
+    plugin: dump
+    source: https://github.com/nxengine/translations/releases/download/v1.2/all.zip
+    organize:
+      data: bin/data
+    prime:
+      - bin/data
+    after:
+      - cavestory
+      - nxengine-evo

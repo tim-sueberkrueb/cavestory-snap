@@ -1,6 +1,6 @@
 # Cave Story snap package
 
-[![Snap Status](https://build.snapcraft.io/badge/tim-sueberkrueb/cavestory-snap.svg)](https://build.snapcraft.io/user/tim-sueberkrueb/cavestory-snap)
+[![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-white.svg)](https://snapcraft.io/cavestory)
 
 This repository contains snap packaging for NXEngine Evo/Cave Story (Doukutsu Monogatari).
 
